@@ -260,7 +260,6 @@ hr.sep{
 <div class="container">
 
   <h1 class="main-title">
-    <img src="icon.png" alt="logo">
     StrucLine-SLAM: A Lightweight and Fully Geometric SLAM System for Structure-Dominant Environments
   </h1>
 
