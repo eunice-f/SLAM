@@ -281,7 +281,7 @@ hr.sep{
 
   <div class="links">
     <!-- Replace these URLs later -->
-    <a href="https://www.youtube.com/watch?v=MN1LQOo9EvI" target="_blank" rel="noopener noreferrer">Video</a>
+    <a href="https://youtu.be/fToNWljt--Q" target="_blank">Video</a>
     <a href="paper.pdf" target="_blank" rel="noopener noreferrer">Paper (PDF)</a>
     <a class="disabled" title="Replace with your repo link">Code</a>
     <a class="disabled" title="Replace with your dataset link">Dataset</a>
@@ -330,16 +330,14 @@ hr.sep{
   </div>
 
   <!-- ================= Project Video ================= -->
-  <div id="video" class="section">
+    <!-- VIDEO -->
+    <div id="video" class="section">
     <h2>Project Video</h2>
     <div class="video">
-      <!-- Replace with your YouTube embed -->
-      <iframe src="https://www.youtube.com/embed/MN1LQOo9EvI" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fToNWljt--Q" allowfullscreen></iframe>
     </div>
-    <p class="caption">
-      Placeholder video embed. Replace <code>REPLACE_WITH_PROJECT_VIDEO</code> with your YouTube ID (or switch to a local MP4 player).
-    </p>
-  </div>
+    </div>
+
 
   <!-- ================= Overview ================= -->
   <div id="overview" class="section">
