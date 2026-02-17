@@ -219,7 +219,6 @@ p{ font-size:17px; }
 <div class="container">
 
 <h1 class="main-title">
-<img src="icon.png">
 StrucLine-SLAM: A Lightweight and Fully Geometric SLAM System for Structure-Dominant Environments
 </h1>
 
@@ -302,7 +301,6 @@ Code, dataset, and hardware files will be released upon publication.
 
 <div class="section-caption">
   <strong>Results Highlights.</strong>
-  Representative executions across the nine-task removal suite under held-out real-robot conditions with synchronized multi-view observations and fingertip force traces.
 </div>
 
 </div>
