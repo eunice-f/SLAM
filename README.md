@@ -334,7 +334,7 @@ hr.sep{
     <h2>Project Video</h2>
     <div class="video">
       <!-- Replace with your YouTube embed -->
-      <iframe src="https://www.youtube.com/embed/REPLACE_WITH_PROJECT_VIDEO" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/MN1LQOo9EvI" allowfullscreen></iframe>
     </div>
     <p class="caption">
       Placeholder video embed. Replace <code>REPLACE_WITH_PROJECT_VIDEO</code> with your YouTube ID (or switch to a local MP4 player).
@@ -457,30 +457,30 @@ hr.sep{
 
         <div class="yt-card">
           <div class="yt-wrap">
-            <iframe src="https://www.youtube.com/embed/REPLACE_ID_1?autoplay=1&mute=1&loop=1&playlist=REPLACE_ID_1&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
-          </div>
-          <div class="yt-label">StructScenes: Photovoltaic Field</div>
-        </div>
-
-        <div class="yt-card">
-          <div class="yt-wrap">
-            <iframe src="https://www.youtube.com/embed/REPLACE_ID_2?autoplay=1&mute=1&loop=1&playlist=REPLACE_ID_2&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+            <iframe src="https://www.youtube.com/embed/SYaSyBR9w3k?autoplay=1&mute=1&loop=1&playlist=SYaSyBR9w3k&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
           </div>
           <div class="yt-label">StructScenes: Greenhouse</div>
         </div>
 
         <div class="yt-card">
           <div class="yt-wrap">
-            <iframe src="https://www.youtube.com/embed/REPLACE_ID_3?autoplay=1&mute=1&loop=1&playlist=REPLACE_ID_3&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+            <iframe src="https://www.youtube.com/embed/H9RilUamtgU?autoplay=1&mute=1&loop=1&playlist=H9RilUamtgU&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
           </div>
-          <div class="yt-label">Indoor Workshop (low-texture)</div>
+          <div class="yt-label">StructScenes: Solar Farm</div>
         </div>
 
         <div class="yt-card">
           <div class="yt-wrap">
-            <iframe src="https://www.youtube.com/embed/REPLACE_ID_4?autoplay=1&mute=1&loop=1&playlist=REPLACE_ID_4&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+            <iframe src="https://www.youtube.com/embed/PIEjIHkYz9Y?autoplay=1&mute=1&loop=1&playlist=PIEjIHkYz9Y&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
           </div>
-          <div class="yt-label">EuRoC / TartanAir (structured)</div>
+          <div class="yt-label">StructScenes: Indoor Workshop (low-texture)</div>
+        </div>
+
+        <div class="yt-card">
+          <div class="yt-wrap">
+            <iframe src="https://www.youtube.com/embed/MPm3F5_-X9w?autoplay=1&mute=1&loop=1&playlist=MPm3F5_-X9w&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+          </div>
+          <div class="yt-label">StructScenes: EuRoC / TartanAir (structured)</div>
         </div>
 
       </div>
