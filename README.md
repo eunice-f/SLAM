@@ -320,6 +320,9 @@ Dataset and hardware files will be released upon publication.
 <iframe src="https://www.youtube.com/embed/MPm3F5_-X9w?autoplay=1&mute=1&loop=1&playlist=MPm3F5_-X9w&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
 </div><div class="yt-label">TartanAir: Workshop SH001</div></div>
 
+<div class="yt-card"><div class="yt-wrap">
+<iframe src="https://www.youtube.com/embed/4OjaA9jGWNk?autoplay=1&mute=1&loop=1&playlist=4OjaA9jGWNk&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+</div><div class="yt-label">EuRoC: Workshop MH05</div></div>
 
 <div class="section-caption">
   <strong>Results Highlights.</strong> Hover over the clips to see StrucLine SLAM running in structure dominant, texture sparse scenes, from our StructScenes sequences (Greenhouse, Solar Farm photovoltaic field, and an indoor low texture workshop) to structured EuRoC/TartanAir trajectories, where its line centric tracking and point and line mapping produce stable localization and structure preserving reconstructions with clean, consistent linear layouts, all without learning based modules or GPU acceleration.
