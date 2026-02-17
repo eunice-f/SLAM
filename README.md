@@ -313,6 +313,10 @@ Dataset and hardware files will be released upon publication.
 </div><div class="yt-label">StructScenes: Fabrication Workshop</div></div>
 
 <div class="yt-card"><div class="yt-wrap">
+<iframe src="https://www.youtube.com/embed/B96Ecr0NXq4?autoplay=1&mute=1&loop=1&playlist=B96Ecr0NXq4&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+</div><div class="yt-label">StructScenes: Engineering Workshop</div></div>
+
+<div class="yt-card"><div class="yt-wrap">
 <iframe src="https://www.youtube.com/embed/MPm3F5_-X9w?autoplay=1&mute=1&loop=1&playlist=MPm3F5_-X9w&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
 </div><div class="yt-label">TartanAir: Workshop SH001</div></div>
 
