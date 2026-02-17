@@ -243,7 +243,6 @@ StrucLine-SLAM: A Lightweight and Fully Geometric SLAM System for Structure-Domi
 
   <div class="badges">
     <span>Stereo SLAM</span>
-    <span>Line-first Geometry</span>
     <span>CPU-only / No Learning</span>
     <span>Structured & Texture-sparse Scenes</span>
     <span>New Dataset: StructScenes</span>
@@ -251,14 +250,13 @@ StrucLine-SLAM: A Lightweight and Fully Geometric SLAM System for Structure-Domi
 
 <div class="links">
 <a href="https://www.youtube.com/watch?v=MN1LQOo9EvI" target="_blank">Video</a>
-<a class="disabled">Code</a>
 <a class="disabled">Dataset</a>
 <a class="disabled">Hardware</a>
 <a class="disabled">Paper</a>
 </div>
 
 <div class="resource-note">
-Code, dataset, and hardware files will be released upon publication.
+Dataset and hardware files will be released upon publication.
 </div>
 
 
@@ -300,19 +298,23 @@ Code, dataset, and hardware files will be released upon publication.
 
 <div class="yt-card"><div class="yt-wrap">
 <iframe src="https://www.youtube.com/embed/SYaSyBR9w3k?autoplay=1&mute=1&loop=1&playlist=SYaSyBR9w3k&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
-</div><div class="yt-label">StructScenes: Greenhouse</div></div>
+</div><div class="yt-label">StructScenes: Experimental Greenhouse</div></div>
 
 <div class="yt-card"><div class="yt-wrap">
 <iframe src="https://www.youtube.com/embed/H9RilUamtgU?autoplay=1&mute=1&loop=1&playlist=H9RilUamtgU&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
-</div><div class="yt-label">StructScenes: Solar Farm</div></div>
+</div><div class="yt-label">StructScenes: Solar Farm1</div></div>
 
 <div class="yt-card"><div class="yt-wrap">
 <iframe src="https://www.youtube.com/embed/PIEjIHkYz9Y?autoplay=1&mute=1&loop=1&playlist=PIEjIHkYz9Y&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
-</div><div class="yt-label">StructScenes: Indoor Workshop (low-texture)</div></div>
+</div><div class="yt-label">StructScenes: Entrance Lobby</div></div>
+
+<div class="yt-card"><div class="yt-wrap">
+<iframe src="https://www.youtube.com/embed/0ha586hnc4c?autoplay=1&mute=1&loop=1&playlist=0ha586hnc4c&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
+</div><div class="yt-label">StructScenes: Fabrication Workshop</div></div>
 
 <div class="yt-card"><div class="yt-wrap">
 <iframe src="https://www.youtube.com/embed/MPm3F5_-X9w?autoplay=1&mute=1&loop=1&playlist=MPm3F5_-X9w&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
-</div><div class="yt-label">StructScenes: EuRoC / TartanAir (structured)</div></div>
+</div><div class="yt-label">TartanAir: Workshop SH001</div></div>
 
 
 <div class="section-caption">
