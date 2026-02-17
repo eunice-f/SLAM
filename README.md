@@ -334,7 +334,7 @@ hr.sep{
     <h2>Project Video</h2>
     <div class="video">
       <!-- Replace with your YouTube embed -->
-      <iframe src="https://www.youtube.com/embed/MN1LQOo9EvI" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/fToNWljt--Q" allowfullscreen></iframe>
     </div>
     <p class="caption">
       Placeholder video embed. Replace <code>REPLACE_WITH_PROJECT_VIDEO</code> with your YouTube ID (or switch to a local MP4 player).
