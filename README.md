@@ -205,6 +205,22 @@ p{ font-size:17px; }
   font-style:italic;
 }
 
+.badges{
+  text-align:center;
+  margin:10px 0 26px 0;
+  color:#666;
+  font-size:14px;
+}
+.badges span{
+  display:inline-block;
+  margin:6px 6px 0 6px;
+  padding:6px 10px;
+  border:1px solid #eee;
+  border-radius:999px;
+  background:#fafafa;
+}
+
+
 
 /* ---------- responsive ---------- */
 @media (max-width:700px){
@@ -298,7 +314,7 @@ Code, dataset, and hardware files will be released upon publication.
 <iframe src="https://www.youtube.com/embed/MPm3F5_-X9w?autoplay=1&mute=1&loop=1&playlist=MPm3F5_-X9w&controls=0&rel=0&modestbranding=1" allow="autoplay"></iframe>
 </div><div class="yt-label">StructScenes: EuRoC / TartanAir (structured)</div></div>
 
-
+</div>
 <div class="section-caption">
   <strong>Results Highlights.</strong> Hover over the clips to see StrucLine SLAM running in structure dominant, texture sparse scenes, from our StructScenes sequences (Greenhouse, Solar Farm photovoltaic field, and an indoor low texture workshop) to structured EuRoC/TartanAir trajectories, where its line centric tracking and point and line mapping produce stable localization and structure preserving reconstructions with clean, consistent linear layouts, all without learning based modules or GPU acceleration.
 </div>
