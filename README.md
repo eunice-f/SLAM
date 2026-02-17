@@ -300,7 +300,7 @@ Code, dataset, and hardware files will be released upon publication.
 
 
 <div class="section-caption">
-  <strong>Results Highlights.</strong>
+  <strong>Results Highlights.</strong> Hover over the clips to see StrucLine SLAM running in structure dominant, texture sparse scenes, from our StructScenes sequences (Greenhouse, Solar Farm photovoltaic field, and an indoor low texture workshop) to structured EuRoC/TartanAir trajectories, where its line centric tracking and point and line mapping produce stable localization and structure preserving reconstructions with clean, consistent linear layouts, all without learning based modules or GPU acceleration.
 </div>
 
 </div>
